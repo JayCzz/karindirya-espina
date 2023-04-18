@@ -3,7 +3,7 @@
         <?php echo validation_errors(); ?>
     </div>
 <?php endif; ?>
-<div class="row p-5">
+<div class="row p-4">
 <div class="col-4"></div>
 <div class="col-md-4">
     <!-- when the form is submitted this function in the controller will be called. -->
